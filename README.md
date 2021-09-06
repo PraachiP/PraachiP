@@ -1,8 +1,8 @@
 ### Hi there 👋... This is Praachi
 - 🌱  I’m currently learning Python for Data Science, SQL, Power BI
 
-🧰 Languages and Tools:
-  PL/SQL, Python, SQL
+- 🧰 Languages and Tools:  PL/SQL, Python, SQL
+  
 
 <!--
 **PraachiP/PraachiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
