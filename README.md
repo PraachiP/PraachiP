@@ -1,5 +1,5 @@
 ### Hi there 👋... This is Praachi
-I’m currently learning Python for Data Science, SQL, Power BI
+- 🌱  I’m currently learning Python for Data Science, SQL, Power BI
 
 <!--
 **PraachiP/PraachiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
