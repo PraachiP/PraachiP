@@ -1,7 +1,7 @@
 ### Hi there 👋... This is Praachi
 - 🌱  I’m currently learning Python for Data Science, SQL, Power BI
 
-- 🧰 Languages and Tools:  PL/SQL, Python, SQL
+- 🧰 Languages and Tools:  PL/SQL, Python, SQL, Microsoft Power BI
 - 👀 Interested in Data Analysis, Data Science, Python, SQL, Microsoft Power BI
 - 💬 Reach me at praachik.20.21@gmail.com
   
