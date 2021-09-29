@@ -2,7 +2,7 @@
 - 🌱  I’m currently learning Python for Data Science, SQL, Power BI
 
 - 🧰 Languages and Tools:  PL/SQL, Python, SQL
-- 👀 Interested in Data Analysis, Data Science, Python, SQL
+- 👀 Interested in Data Analysis, Data Science, Python, SQL, Microsoft Power BI
 - 💬 Reach me at praachik.20.21@gmail.com
   
 
