@@ -1,5 +1,5 @@
 ### Hi there 👋... This is Praachi
-- 🌱  I’m currently learning Python for Data Science, SQL, Power BI
+- 🌱  I’m currently learning Python for Data Science, Power BI, Tableau
 
 - 🧰 Languages and Tools:  PL/SQL, Python, SQL, Microsoft Power BI
 - 👀 Interested in Data Analysis, Data Science, Python, SQL, Microsoft Power BI
