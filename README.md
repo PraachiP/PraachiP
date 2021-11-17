@@ -1,8 +1,8 @@
 ### Hi there 👋... This is Praachi
-- 🌱  I’m currently learning Python for Data Science, Power BI, Tableau
+- 🌱  Learned Python for Data Science, Power BI, Tableau @iNeuron.ai
 
-- 🧰 Languages and Tools:  PL/SQL, Python, SQL, Microsoft Power BI
-- 👀 Interested in Data Analysis, Data Science, Python, SQL, Microsoft Power BI
+- 🧰 Languages and Tools:  PL/SQL, Python, SQL, Microsoft Power BI, Tableau
+- 👀 Interested in Data Analytics, Data Science, Python, SQL, Microsoft Power BI, Tableau
 - 💬 Reach me at praachik.20.21@gmail.com
   
 
